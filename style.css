@@ -19,7 +19,7 @@ a{
 .img-head{
     background: no-repeat;
   background-size: 100%;
-    background-image: url(../img/coffe.jpg);
+    background-image: url(img/coffe.jpg);
 }
 .container{
     width: 1245px;
