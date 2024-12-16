@@ -40,13 +40,10 @@ a{
     height: 50px;
     padding-left: 50px;
     padding-top: 20px;
-    color: #DAA520;
+    color: #7b5b39;
     font-size: 50px;
 }
-.name{
-    background-color: #8B4513;
-    border-radius: 20px;
-}
+
 .right-head{
     display: flex;
     width: 300px;
@@ -58,7 +55,7 @@ a{
 .main{
     transition: 0.5s;
     background: none;
-    color: #DAA520;
+    color: #745b34;
     border:  0;
     margin-right: 10px;
     font-size: 20px;
@@ -68,15 +65,16 @@ a{
     
     
 }
-.menu{
+.menuH{
     transition: 0.5s;
     background: none;
-    color: #DAA520;
+    color: #745b34;
     border:  0;
     margin-right: 10px;
     font-size: 20px;
+    
 }
-.menu:hover{
+.menuH:hover{
     font-size: 30px;
     
     
@@ -84,7 +82,7 @@ a{
 .inf{
     transition: 0.5s;
     background: none;
-    color: #DAA520;
+    color: #745b34;
     border:  0;
     margin-right: 10px; 
     font-size: 20px;
